@@ -6,6 +6,10 @@ Aplikasi manajemen karyawan berbasis Flutter dengan autentikasi, CRUD karyawan, 
 
 [⬇️ Download APK (app-release.apk)](files/app-release.apk)
 
+### Account
+user: demo
+pass: test1234
+
 ---
 
 ## Fitur
